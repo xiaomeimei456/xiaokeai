@@ -1,0 +1,60 @@
+{
+  "uid" : "638e0ee3b9129f66",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login1",
+  "fullName" : "scripts..Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login1",
+  "historyId" : "9deef15b27635610637f78fc5b1ab2a3",
+  "time" : {
+    "start" : 1559290194255,
+    "stop" : 1559290194263,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "itheima-2.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "8245-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : ".Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login1"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "638e0ee3b9129f66.json",
+  "parameterValues" : [ ]
+}

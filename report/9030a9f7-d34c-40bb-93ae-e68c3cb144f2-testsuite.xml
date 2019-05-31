@@ -1,0 +1,64 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559290194255" stop="1559290194351">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559290194255" status="passed" stop="1559290194263">
+      <name>.Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8245-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559290194263" status="failed" stop="1559290194347">
+      <name>.Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login2</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x1084bfeb8&gt;
+
+    def test_login2(self):
+&gt;       assert 0
+E       assert 0
+
+scripts/test_login.py:7: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8245-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559290194348" status="passed" stop="1559290194349">
+      <name>.Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8245-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559290194350" status="passed" stop="1559290194351">
+      <name>.Users.Yoson.Desktop.jenkins_project_xx_11.scripts.test_login.TestLogin.test_login4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="8245-MainThread"/>
+        <label name="host" value="itheima-2.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
